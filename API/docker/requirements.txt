@@ -1,0 +1,12 @@
+fastapi[all]
+uvicorn[standard]
+geopandas
+pyarrow
+numpy
+pandas
+pydantic
+networkx
+shapely
+tqdm
+joblib
+scipy
